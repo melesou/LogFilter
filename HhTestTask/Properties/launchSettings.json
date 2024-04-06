@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HhTestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "--file-log \"C:\\Users\\melesou\\source\\repos\\HhTestTask\\HhTestTask\\LogInput.txt\" --file-output \"C:\\Users\\melesou\\source\\repos\\HhTestTask\\HhTestTask\\LogOutput.txt\" --time-start 2023-01-01 --time-end 2024-04-08 --address-start \"100.0.0.0\" --address-mask \"255.255.255.255\"",
+      "remoteDebugEnabled": false
+    }
+  }
+}
